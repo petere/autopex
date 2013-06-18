@@ -1,0 +1,5 @@
+CREATE EXTENSION autopex;
+CREATE EXTENSION plsh;
+NOTICE:  autopex: downloading and building extension; this might take a moment
+DO $$#!/bin/sh
+true$$ LANGUAGE plsh;

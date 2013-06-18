@@ -1,0 +1,3 @@
+comment = 'autopex'
+default_version = 0
+relocatable = true
